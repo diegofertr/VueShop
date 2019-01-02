@@ -1,4 +1,5 @@
-# vue-shop
+# VuexShop
+Aplicación básica de carrito de compras con Vue, Vuex y Bootstrap
 
 ## Project setup
 ```
@@ -24,6 +25,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
